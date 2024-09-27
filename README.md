@@ -5,7 +5,7 @@ This repository contains two simple programs, one written in Rust and the other 
 
 ## Contents
 - **task-4**: Rust project that prints a greeting with the current time.
-- **task4.php**: PHP file that prints a greeting with the current time.
+- **taskfour.php**: PHP file that prints a greeting with the current time.
 
 ## Rust Program
 
@@ -49,7 +49,7 @@ cd Task4
 Run the PHP script:
 
 ```bash
-php task4.php
+php taskfour.php
 ```
 
 ### Output
