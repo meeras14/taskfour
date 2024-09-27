@@ -1,4 +1,3 @@
-#Here is the GitHub-friendly `README.md` file content with proper markdown formatting:
 
 ```markdown
 # Task Four
@@ -61,5 +60,3 @@ The PHP script will output:
 Hello Meera Saju, right now the time is <current_date> <current_time>
 ```
 ```
-
-You can copy and paste this content directly into a `README.md` file in your GitHub repository. Let me know if you need any further changes!
