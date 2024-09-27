@@ -59,4 +59,4 @@ The PHP script will output:
 ```
 Hello Meera Saju, right now the time is <current_date> <current_time>
 ```
-```
+
