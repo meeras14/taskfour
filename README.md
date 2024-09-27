@@ -27,7 +27,7 @@ cargo run
 The program will output something like this:
 
 ```
-Hello Meera Saju, right now the time is 2024-09-20 12:39:00
+Hello Meera Saju, right now the time is 2024-09-22 10:24:04
 ```
 
 ## PHP Program
