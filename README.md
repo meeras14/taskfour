@@ -1,6 +1,5 @@
 
-```markdown
-# Task Four
+## Task Four
 
 This repository contains two simple programs, one written in Rust and the other in PHP, that display a personalized greeting along with the current time. Both programs are set to show the current time in Indian Standard Time (IST).
 
